@@ -1,3 +1,6 @@
-# UCI-GREGoR
+# UCI Institute for Clinical and Translational Science (ICTS)
 
-To accelerate the pace of Mendelian disease gene discovery and clinical implementation, we created a Pediatric Mendelian Genomics Research Center (MGRC), leveraging the broad pediatric clinical and research expertise and expertise in providing comprehensive and affordable genetic testing. Our Center unites world class experts combining basic and translational research with innovative approaches to phenotyping, variant identification and functional investigation of both coding and non-coding sequence changes with the goals of discovering novel Mendelian gene variations and identifying variants not detected on current sequencing pipelines, disambiguating uncertain variants into disease-causing versus benign categorizations, and sharing information by working collaboratively with the MGRC community.
+The UC Irvine Institute for Clinical and Translational Science (ICTS) is funded by the National Institutes of Health (NIH) under the Clinical and Translational Sciences Award (CTSA) program. Currently, there are more than 50 medical research institutions throughout the United States that receive CTSA program funding.
+
+The ICTS functions as a local centerpiece for the national program, and is dedicated to advancing scientific discovery and medical breakthroughs. Collectively, our goal is simple: to accelerate these discoveries from the lab and translate them into life-altering medical care.
+
